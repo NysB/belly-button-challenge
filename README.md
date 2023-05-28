@@ -6,8 +6,7 @@ For this assignment, I have been asked to create an interactive dashboard to exp
 ## Content
 In this repository, you will find:
 
-- Resources folder: containing two datasets (i.e. excel files) retrieved from http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
-- Result folder: containing the xxx
+- Images folder: containing the example images provided for the assignment;
+- StarterCode folder: containing the index.html file, samples.json file and in the static/js folder, in the app.js file, the code I have written for this assignment; 
+- Data folder: contain again the samples.json file. 
 
-## Result
-- 
