@@ -10,5 +10,3 @@ In this repository, you will find:
 - StarterCode folder: containing the index.html file, samples.json file and in the static/js folder, in the app.js file, the code I have written for this assignment; 
 - Data folder: contain again the samples.json file. 
 
-## Result
-- The webpage can be found using: 
