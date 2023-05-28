@@ -10,3 +10,7 @@ In this repository, you will find:
 - StarterCode folder: containing the index.html file, samples.json file and in the static/js folder, in the app.js file, the code I have written for this assignment; 
 - Data folder: contain again the samples.json file. 
 
+## Result
+Please see below a screenshot of the dashboard I have built. 
+
+![image](https://github.com/NysB/belly-button-challenge/assets/123317735/516f28c9-0967-4a90-90d9-9fbac2fd9279)
